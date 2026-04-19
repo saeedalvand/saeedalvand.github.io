@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "title": "My Beach Resort",
+      "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Management",
+      "publisher": "Supercent",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.beachresort",
+      "image": "assets/beach-resort.jpg",
+      "description": "A hybrid-casual resort management game.",
+      "role": "Designing game loops, economy, monetizatoin, Cooperating in art direction "
+    },
+    {
+      "title": "Beach Hotel Simulator",
+      "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Simulation",
+      "publisher": "Supercent",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.hotelsimulator",
+      "image": "assets/hotel-simulator.jpg",
+      "description": "A first-person hotel management simulation game with upgrade pacing and room design mechanics.",
+      "role": "Designing game loops, economy, monetizatoin, level design, UX"
+    },
+    {
+      "title": "Dice Soldier: Mystery Castle",
+      "platform/genre": "Mobile (iOS, Android)/ RPG, board-game",
+      "publisher": "TRBO fast tools",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.dicesoldier",
+      "image": "assets/Dice-soldier.webp",
+      "description": "A hybrid-casual resort management game.",
+      "role": "Ideating, Designing game loops and economy "
+    },
+    {
+      "title": "Food Fever: My Dream Cafe",
+      "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Management",
+      "publisher": "Funtory",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.funtory.foodfever",
+      "image": "assets/food-fever.jpg",
+      "description": "A hyper-casual restaurant management game",
+      "role": "Designing game loops, Implementing VFX and animations in Unity "
+    },
+    {
+      "title": "Monster Trainer",
+      "platform/genre": "Mobile (iOS, Android)/ Adventure",
+      "publisher": "Azure Casual Games",
+      "storeUrl": "https://www.bluestacks.com/apps/action/monster-trainer-catching-game-on-pc.html",
+      "image": "assets/monster-trainer.jpg",
+      "description": "A first-person monster-battler game",
+      "role": "Designing economy"
+    }
+  ]
+}
