@@ -5,7 +5,7 @@
       "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Management",
       "publisher": "Supercent",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.beachresort",
-      "image": "assets/beach-resort.jpg",
+      "image": "assets/beach-resort.png",
       "description": "A hybrid-casual resort management game.",
       "role": "Designing game loops, economy, monetizatoin, Cooperating in art direction "
     },
@@ -14,16 +14,16 @@
       "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Simulation",
       "publisher": "Supercent",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.hotelsimulator",
-      "image": "assets/hotel-simulator.jpg",
+      "image": "assets/bhs.webp",
       "description": "A first-person hotel management simulation game with upgrade pacing and room design mechanics.",
       "role": "Designing game loops, economy, monetizatoin, level design, UX"
     },
     {
-      "title": "Dice Soldier: Mystery Castle",
+      "title": "Dice Soldier: Mystery Castle (Under Development)",
       "platform/genre": "Mobile (iOS, Android)/ RPG, board-game",
       "publisher": "TRBO fast tools",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.aredstudio.dicesoldier",
-      "image": "assets/Dice-soldier.webp",
+      "image": "assets/Dice-soldier.png",
       "description": "A hybrid-casual resort management game.",
       "role": "Ideating, Designing game loops and economy "
     },
@@ -32,7 +32,7 @@
       "platform/genre": "Mobile (iOS, Android)/ Idle Arcade, Management",
       "publisher": "Funtory",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.funtory.foodfever",
-      "image": "assets/food-fever.jpg",
+      "image": "assets/food-fever.webp",
       "description": "A hyper-casual restaurant management game",
       "role": "Designing game loops, Implementing VFX and animations in Unity "
     },
@@ -40,8 +40,8 @@
       "title": "Monster Trainer",
       "platform/genre": "Mobile (iOS, Android)/ Adventure",
       "publisher": "Azure Casual Games",
-      "storeUrl": "https://www.bluestacks.com/apps/action/monster-trainer-catching-game-on-pc.html",
-      "image": "assets/monster-trainer.jpg",
+      "storeUrl": "https://apps.apple.com/us/app/monster-trainer-catching-game/id1629852581",
+      "image": "assets/monster.webp",
       "description": "A first-person monster-battler game",
       "role": "Designing economy"
     }
