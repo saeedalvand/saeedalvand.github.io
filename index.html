@@ -924,7 +924,7 @@
             <a class="btn btn-primary" href="#work">Explore featured games</a>
             <a class="btn btn-secondary" href="https://www.linkedin.com/in/saeed-alvandkoohi-1b4a546a/" target="_blank"
               rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> View LinkedIn</a>
-            <a class="btn btn-ghost" href="./CV-2026.pdf" download="Saeed-Alvandkoohi-CV-2026.pdf"><i class="fa fa-download"></i>Download CV</a>
+            <a class="btn btn-secondary" href="assets/CV-2026.pdf" download="Saeed-Alvandkoohi-CV-2026.pdf"><i class="fa fa-download"></i>Download CV</a>
           </div>
           
         </div>
@@ -1215,8 +1215,8 @@
               <div class="game-media">
                 ${safeImage ? `<img src="${safeImage}" alt="${safeTitle} cover image" loading="lazy" width="640" height="400" onerror="this.remove()">` : ''}
                 <div class="game-badge-row">
-                  <span class="badge">${safePublisher}</span>
-                  <span class="badge">Mobile</span>
+                  <span class="badge">Publisher: ${safePublisher}</span>
+                  
                 </div>
               </div>
               <div class="game-body">
@@ -1227,7 +1227,7 @@
                 <p>${safeDescription}</p>
                 <div class="role-box"><strong>My role</strong><br>${safeRole}</div>
                 <div class="game-actions">
-                  <a class="btn btn-secondary" href="${safeStore}" target="_blank" rel="noopener noreferrer">Store page</a>
+                  <a class="btn btn-secondary" href="${safeStore}" target="_blank" rel="noopener noreferrer"> <i class="fa  fa-external-link"></i>Store page</a>
                 </div>
               </div>
             </article>`;
